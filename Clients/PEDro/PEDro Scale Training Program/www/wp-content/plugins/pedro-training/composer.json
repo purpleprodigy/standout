@@ -1,0 +1,43 @@
+{
+    "name" 			: "knowthecode/da-bootcamp-faq",
+    "description" 	: "DA Bootcamp FAQ Plugin",
+    "type"          : "project",
+    "keywords" 		: ["wordpress", "wp", "plugin", "faq"],
+    "homepage" 		: "http://knowthecode.io",
+    "license" 		: "GPL-2.0+",
+    "authors": [
+        {
+            "name" 	: "Tonya",
+            "email" : "hellofromtonya@thewpdc.com"
+        }
+    ],
+    "require": {
+        "php" : ">=5.4.0"
+    },
+    "require-dev": {
+        "raveren/kint" : "~1.0",
+        "filp/whoops" : "~2.0"
+    },
+    "autoload" : {
+        "files": [
+            "src/support/scripts.php",
+            "src/custom/custom-post-type.php",
+            "src/custom/custom-taxonomy.php",
+            "src/shortcode/faq-shortcode.php"
+        ]
+    },
+    "autoload-dev" : {
+        "files": [
+            "src/support/whoops.php"
+        ]
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    },
+    "config": {
+        "vendor-dir": "assets/vendor"
+    },
+    "minimum-stability": "dev"
+}
