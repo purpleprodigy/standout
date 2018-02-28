@@ -25,24 +25,16 @@
     <fileColor scope="Non-Project Files (Material Palenight)" color="4E5579" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="menu.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/lib/structure/menu.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
-              <folding>
-                <element signature="e#6#240#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>button</find>
+      <find>primary</find>
+      <find>$hr--border-color</find>
+      <find>$main-nav--border-color</find>
+      <find>--border-color</find>
+      <find>border</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -52,7 +44,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/assets/sass/components/header/title-area/_header-image.scss" />
-        <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/assets/sass/components/_buttons.scss" />
         <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/page_archive.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/lib/structure/widget.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/lib/setup-theme.php" />
@@ -60,14 +51,28 @@
         <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/config/theme-setup.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/english.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/CHANGELOG.md" />
-        <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/lib/structure/post.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/lib/functions/autoload.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/lib/components/customizer/helpers.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/portuguese.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/lib/setup.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/lib/init.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/assets/sass/components/navigation/_primary.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/assets/sass/components/navigation/index.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/assets/sass/components/navigation/_main.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/lib/functions/autoload.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/src/views/logout.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/lib/structure/menu.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/assets/sass/components/navigation/_account.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/src/views/login.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/lib/setup.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/assets/sass/components/_buttons.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/assets/sass/utilities/variables/_colors.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/assets/sass/views/front-page/_base.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/lib/structure/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/src/views/footer-english.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/src/views/footer-portuguese.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/lib/init.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/lib/components/favicon.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/pedro-training/src/views/favicon.php" />
       </list>
     </option>
   </component>
@@ -110,6 +115,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,31 +132,13 @@
               <item name="PEDro training" type="b2602c69:ProjectViewProjectNode" />
               <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="PEDro training" type="b2602c69:ProjectViewProjectNode" />
               <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="genesis" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="PEDro training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="genesis" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="PEDro training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="genesis" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="functions" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="PEDro training" type="b2602c69:ProjectViewProjectNode" />
@@ -166,34 +154,6 @@
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="pedro-training" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="PEDro training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pedro-training" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="PEDro training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pedro-training" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="customizer" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="PEDro training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pedro-training" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="functions" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="PEDro training" type="b2602c69:ProjectViewProjectNode" />
@@ -208,7 +168,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -226,6 +185,8 @@
       <recent name="$PROJECT_DIR$/wp-content/themes/pedro-training/lib/functions" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/themes/pedro-training/src/views" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/pedro-training/assets/sass/components/navigation" />
       <recent name="$PROJECT_DIR$/wp-content/themes/pedro-training" />
     </key>
   </component>
@@ -242,14 +203,6 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
@@ -287,9 +240,20 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -323,36 +287,58 @@
       <workItem from="1509594022443" duration="586000" />
       <workItem from="1509594634250" duration="8000" />
       <workItem from="1509594657436" duration="8000" />
-      <workItem from="1509594990111" duration="3168000" />
+      <workItem from="1509594990111" duration="3370000" />
+      <workItem from="1509598856207" duration="487000" />
+      <workItem from="1509664734982" duration="4514000" />
+      <workItem from="1509671965970" duration="122000" />
+      <workItem from="1509672125875" duration="3373000" />
+      <workItem from="1509675890489" duration="36000" />
+      <workItem from="1509676986883" duration="196000" />
+      <workItem from="1509677220485" duration="1515000" />
+      <workItem from="1509681028917" duration="1312000" />
+      <workItem from="1509682543812" duration="8000" />
+      <workItem from="1509682635174" duration="835000" />
+      <workItem from="1510011179841" duration="330000" />
+      <workItem from="1510030744798" duration="164000" />
+      <workItem from="1510274126479" duration="1236000" />
+      <workItem from="1510555597197" duration="152000" />
+      <workItem from="1510702274171" duration="385000" />
+      <workItem from="1510702693092" duration="1655000" />
+      <workItem from="1510716780829" duration="4757000" />
+      <workItem from="1510798603098" duration="88000" />
+      <workItem from="1511134391360" duration="340000" />
+      <workItem from="1511243557459" duration="42000" />
+      <workItem from="1513817812444" duration="327000" />
+      <workItem from="1513819848078" duration="71000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32960000" />
+    <option name="totallyTimeSpent" value="55107000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="2439" height="1334" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24113475" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22861911" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19285715" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19209486" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912534" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -374,50 +360,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/lib/functions/autoload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/lib/setup.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4756">
-          <caret line="172" column="42" lean-forward="false" selection-start-line="172" selection-start-column="42" selection-end-line="172" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/lib/structure/menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="30" />
-          <folding>
-            <element signature="e#6#240#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/lib/structure/widget.php" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/lib/structure/menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/structure/footer.php" />
-    <entry file="file://$PROJECT_DIR$/lib/functions/enqueue-assets.php" />
-    <entry file="file://$PROJECT_DIR$/lib/functions/enqueue-assets.php" />
-    <entry file="file://$PROJECT_DIR$/assets/sass/components/header/title-area/_header-image.scss" />
-    <entry file="file://$PROJECT_DIR$/lib/components/favicon.php" />
-    <entry file="file://$PROJECT_DIR$/assets/images/logo-pedro_2x.gif" />
-    <entry file="file://$PROJECT_DIR$/assets/sass/components/header/title-area/_header-image.scss" />
-    <entry file="file://$PROJECT_DIR$/assets/sass/components/header/_base.scss" />
-    <entry file="file://$PROJECT_DIR$/assets/sass/components/header/_widget-area.scss" />
-    <entry file="file://$PROJECT_DIR$/assets/sass/components/header/index.scss" />
-    <entry file="file://$PROJECT_DIR$/assets/sass/components/header/title-area/_base.scss" />
-    <entry file="file://$PROJECT_DIR$/lib/init.php" />
     <entry file="file://$PROJECT_DIR$/lib/setup.php" />
     <entry file="file://$PROJECT_DIR$/lib/structure/menu.php" />
     <entry file="file://$PROJECT_DIR$/lib/structure/post.php" />
@@ -446,20 +388,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/page_archive.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="31" column="8" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/assets/sass/components/_buttons.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="44" column="7" lean-forward="false" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -467,7 +395,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess" />
     <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/lib/setup-theme.php" />
     <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/lib/structure/widget.php" />
     <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/config/theme-setup.php" />
@@ -476,7 +403,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="116">
             <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -487,7 +413,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -495,74 +420,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/lib/functions/enqueue-assets.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/lib/components/favicon.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/lib/structure/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <marker date="1509335636000" expanded="false" signature="618:626" ph="·" />
-            <marker date="1509335636000" expanded="false" signature="674:682" ph="·" />
-            <marker date="1509335636000" expanded="false" signature="722:727" ph="&amp;" />
-            <marker date="1509335636000" expanded="false" signature="743:751" ph="·" />
-            <marker date="1509335636000" expanded="true" signature="853:1549" ph="..." />
-            <marker date="1509335636000" expanded="true" signature="862:1539" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/portuguese.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/english.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#39#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/lib/functions/autoload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1943">
-          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#217#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -570,7 +427,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2581">
           <caret line="97" column="0" lean-forward="true" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -578,15 +434,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
           <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/lib/setup.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="123" column="33" lean-forward="false" selection-start-line="123" selection-start-column="21" selection-end-line="123" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -594,25 +441,211 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3436">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/lib/init.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/genesis/lib/init.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="834">
-          <caret line="123" column="54" lean-forward="false" selection-start-line="123" selection-start-column="37" selection-end-line="123" selection-end-column="54" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/f6f4060431303a43d972055112c19c5f.html" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/genesis/lib/structure/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="815">
+          <caret line="94" column="1" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="94" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/assets/sass/components/navigation/_site-header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/assets/sass/components/navigation/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/assets/sass/utilities/variables/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/assets/sass/components/navigation/_main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/assets/sass/components/navigation/_account.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/assets/sass/views/front-page/_base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/assets/sass/components/_buttons.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="47" column="16" lean-forward="false" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/assets/sass/utilities/variables/_colors.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/assets/sass/base/elements/_defaults.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="35" column="27" lean-forward="false" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/src/views/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="56" lean-forward="false" selection-start-line="1" selection-start-column="56" selection-end-line="1" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/english.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/portuguese.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/lib/functions/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1247">
+          <caret line="51" column="36" lean-forward="true" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/lib/functions/enqueue-assets.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/lib/setup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="22" column="108" lean-forward="false" selection-start-line="22" selection-start-column="93" selection-end-line="22" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/src/views/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/page_archive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="31" column="8" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/src/views/footer-english.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/src/views/footer-portuguese.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/lib/structure/menu.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
-          <folding>
-            <element signature="e#6#240#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="1001">
+          <caret line="46" column="73" lean-forward="true" selection-start-line="46" selection-start-column="73" selection-end-line="46" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/lib/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="30" column="22" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/src/views/favicon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/lib/components/favicon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/pedro-training/plugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pedro-training/lib/structure/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="26" column="66" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="66" />
+          <folding />
         </state>
       </provider>
     </entry>
